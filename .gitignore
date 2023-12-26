@@ -1,0 +1,5 @@
+venv
+.venv
+personal
+**/.DS_Store
+**/.ipynb_checkpoints/
