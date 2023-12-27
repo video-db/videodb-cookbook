@@ -13,10 +13,10 @@
  <a href="https://docs.videodb.io/" target="_blank" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/videodb.png" style="max-width: 100%; width: 400px; margin-bottom: 20px">
-    <img alt="VideoDb icon" src="./images/videodb.png" width="400px">
+    <img alt="VideoDB icon" src="./images/videodb.png" width="400px">
   </picture>
 
-  <h3 align="center">Videodb Cookbook 👨‍🍳</h3>
+  <h3 align="center">VideoDB Cookbook 👨‍🍳</h3>
   <p align="center">
     <br />
     <a href="https://github.com/video-db/videodb-cookbook/blob/main/quickstart/quickstart.ipynb"> <strong>QuickStart Notebook »</strong></a>
@@ -26,7 +26,7 @@
 <br />
 
 ## Videodb Cookbook
-Example code and guides for accomplishing common tasks with the [VideoDB SDK](). To run these examples, you'll need an videoDB account and associated API key ([create a free account here](https://console.videodb.io)).
+Example code and guides for accomplishing common tasks with the [VideoDB SDK](). To run these examples, you'll need an VideoDB account and associated API key ([create a free account here](https://console.videodb.io)).
 
 Most code examples are written in Python, though the concepts can be applied in any language.
 
