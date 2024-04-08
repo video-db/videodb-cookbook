@@ -1,0 +1,14 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "vscode-notebook-cell",
+            "pattern": "/Users/rohit/Spext/videodb/videodb-cookbook/examples/Lovo_Voiceover_1.ipynb"
+        },
+        {
+            "language": "markdown",
+            "scheme": "vscode-notebook-cell",
+            "pattern": "/Users/rohit/Spext/videodb/videodb-cookbook/examples/Lovo_Voiceover_1.ipynb"
+        }
+    ]
+}
