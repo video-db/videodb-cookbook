@@ -22,7 +22,6 @@
     <a href="https://docs.videodb.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-<a href="https://github.com/video-db/videodb-cookbook/blob/main/quickstart/quickstart.ipynb"> <strong>QuickStart Notebook »</strong></a>
   </p>
 
 ## Videodb Cookbook
