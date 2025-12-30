@@ -30,10 +30,89 @@ This repo has example code and quick tutorials for solving common tasks with the
 Most of the code examples are written in Python, though the concepts can be applied in any language.
 
 ## Contents
-| Cookbook|  Colab |
-|:-----:|:-----:|
-| [Quickstart: VideoDB](https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/VideoDB%20Quickstart.ipynb)  | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/quickstart.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| [Quickstart: Scene Index](https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/Scene%20Index%20QuickStart.ipynb)  | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/quickstart.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+### Quickstart
+| Cookbook | Colab |
+|:---------|:-----:|
+| [VideoDB Quickstart](./quickstart/VideoDB%20Quickstart.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/VideoDB%20Quickstart.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Scene Index QuickStart](./quickstart/Scene%20Index%20QuickStart.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/Scene%20Index%20QuickStart.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Multimodal Quickstart](./quickstart/Multimodal_Quickstart.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/Multimodal_Quickstart.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Scene Level Metadata Indexing](./quickstart/scene_level_metadata_indexing.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/scene_level_metadata_indexing.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+### Real Time Streaming
+| Cookbook | Colab |
+|:---------|:-----:|
+| [Baby Crib Monitoring](./real_time_streaming/Baby_Crib_Monitoring.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/real_time_streaming/Baby_Crib_Monitoring.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Cricket Match Monitoring](./real_time_streaming/Cricket_Match_Monitoring.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/real_time_streaming/Cricket_Match_Monitoring.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Flash Flood Detection](./real_time_streaming/Flash_Flood_Detection.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/real_time_streaming/Flash_Flood_Detection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Intrusion Detection](./real_time_streaming/Intrusion_Detection.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/real_time_streaming/Intrusion_Detection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Road Monitoring](./real_time_streaming/Road_Monitoring.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/real_time_streaming/Road_Monitoring.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+#### Multicam
+| Cookbook | Colab |
+|:---------|:-----:|
+| [Multicam Basketball Analysis](./real_time_streaming/multicam/Multicam_Basketball_Analysis.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/real_time_streaming/multicam/Multicam_Basketball_Analysis.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Multicam Public Surveillance](./real_time_streaming/multicam/Multicam_Public_Surveillance.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/real_time_streaming/multicam/Multicam_Public_Surveillance.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+### Meeting Agent
+| Cookbook | Colab |
+|:---------|:-----:|
+| [Interview Evaluation To Slack](./meeting_agent/Interview_Evaluation_To_Slack.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/meeting_agent/Interview_Evaluation_To_Slack.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Sales Meeting To CRM](./meeting_agent/Sales_Meeting_To_CRM.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/meeting_agent/Sales_Meeting_To_CRM.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Webinar To Linkedin](./meeting_agent/Webinar_To_Linkedin.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/meeting_agent/Webinar_To_Linkedin.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+### Integrations
+#### LLama Index
+| Cookbook | Colab |
+|:---------|:-----:|
+| [Simple Video RAG](./integrations/llama-index/simple_video_rag.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/integrations/llama-index/simple_video_rag.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+### Guides
+| Cookbook | Colab |
+|:---------|:-----:|
+| [Cleanup](./guides/Cleanup.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/Cleanup.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [GenAI](./guides/genai.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/genai.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Subtitle](./guides/Subtitle.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/Subtitle.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [TextAsset](./guides/TextAsset.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/TextAsset.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [VideoDB Search and Evaluation](./guides/VideoDB_Search_and_Evaluation.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/VideoDB_Search_and_Evaluation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+#### Multimodal
+| Cookbook | Colab |
+|:---------|:-----:|
+| [Prompt Experiments and Benchmarking](./guides/multimodal/Prompt_Experiments_and_Benchmarking.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/multimodal/Prompt_Experiments_and_Benchmarking.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+#### Scene Index
+| Cookbook | Colab |
+|:---------|:-----:|
+| [Advanced Visual Search](./guides/scene-index/advanced_visual_search.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/scene-index/advanced_visual_search.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Custom Annotations](./guides/scene-index/custom_annotations.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/scene-index/custom_annotations.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Playground Scene Extraction](./guides/scene-index/playground_scene_extraction.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/scene-index/playground_scene_extraction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+### Examples
+| Cookbook | Colab |
+|:---------|:-----:|
+| [Add Music to Sora Videos](./examples/Add%20Music%20to%20Sora%20Videos.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Add%20Music%20to%20Sora%20Videos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Adding Brand Elements](./examples/Adding_Brand_Elements.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Adding_Brand_Elements.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Audio Overlay](./examples/Audio_Overlay.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Audio_Overlay.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Beep Curse Words](./examples/Beep%20Curse%20Words.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Beep%20Curse%20Words.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Clip with Faces Rekognition](./examples/Clip%20with%20Faces%20Rekognition.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Clip%20with%20Faces%20Rekognition.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Conference Slide Scraper](./examples/conference_slide_scraper.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/conference_slide_scraper.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Content Moderation AWS Rekognition](./examples/Content%20Moderation%20AWS%20Rekognition.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Content%20Moderation%20AWS%20Rekognition.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Content Moderation](./examples/Content%20Moderation.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Content%20Moderation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Create Clip Faces](./examples/Create%20Clip%20Faces.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Create%20Clip%20Faces.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Dubbing - Replace Soundtrack with New Audio](./examples/Dubbing%20-%20Replace%20Soundtrack%20with%20New%20Audio.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Dubbing%20-%20Replace%20Soundtrack%20with%20New%20Audio.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Elevenlabs Voiceover 1](./examples/Elevenlabs_Voiceover_1.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Elevenlabs_Voiceover_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Elevenlabs Voiceover 2](./examples/Elevenlabs_Voiceover_2.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Elevenlabs_Voiceover_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [GenAI Storyboard](./examples/GenAI_Storyboard.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/GenAI_Storyboard.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Insert Inline Video](./examples/Insert%20Inline%20Video.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Insert%20Inline%20Video.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Intro Outro Inline](./examples/Intro_Outro_Inline.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Intro_Outro_Inline.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Keyword Search 1](./examples/Keyword_Search_1.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Keyword_Search_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Keyword Search Counter](./examples/Keyword_Search_Counter.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Keyword_Search_Counter.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Lecture Notes 1](./examples/lecture_notes_1.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/lecture_notes_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Lovo Voiceover 1](./examples/Lovo_Voiceover_1.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Lovo_Voiceover_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Programmatic Streams 1](./examples/Programmatic_Streams_1.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Programmatic_Streams_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Subtitle Styling](./examples/Subtitle_Styling.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Subtitle_Styling.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Wellsaid Voiceover 1](./examples/Wellsaid_Voiceover_1.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/examples/Wellsaid_Voiceover_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 ## Contributing
 
