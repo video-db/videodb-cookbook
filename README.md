@@ -88,6 +88,26 @@ Most of the code examples are written in Python, though the concepts can be appl
 | [Custom Annotations](./guides/scene-index/custom_annotations.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/scene-index/custom_annotations.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [Playground Scene Extraction](./guides/scene-index/playground_scene_extraction.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/scene-index/playground_scene_extraction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
+### Editor
+#### Creative
+| Cookbook | Colab |
+|:---------|:-----:|
+| [2025 in Frames](./editor/creative/2025_in_Frames.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/2025_in_Frames.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [AI Storyteller for Kids](./editor/creative/AI_Storyteller_for_Kids.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/AI_Storyteller_for_Kids.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Chess Montage](./editor/creative/chess_montage.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/chess_montage.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Faceless Video](./editor/creative/faceless_video.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/faceless_video.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Lyric Video Generator](./editor/creative/Lyric_Video_Generator.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/Lyric_Video_Generator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Short Form Lyric Video Generator](./editor/creative/Short_Form_Lyric_Video_Generator.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/Short_Form_Lyric_Video_Generator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+#### Feature
+| Cookbook | Colab |
+|:---------|:-----:|
+| [Caption Asset Auto Subtitles](./editor/feature/caption_asset_auto_subtitles.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/feature/caption_asset_auto_subtitles.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Clip Control Layer](./editor/feature/clip_control_layer.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/feature/clip_control_layer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Fit Position Aspect Ratios](./editor/feature/fit_position_aspect_ratios.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/feature/fit_position_aspect_ratios.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Timeline Basic](./editor/feature/timeline_basic.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/feature/timeline_basic.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Trimming vs Timing](./editor/feature/trimming_vs_timing.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/feature/trimming_vs_timing.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
 ### Examples
 | Cookbook | Colab |
 |:---------|:-----:|
