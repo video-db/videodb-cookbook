@@ -92,12 +92,11 @@ Most of the code examples are written in Python, though the concepts can be appl
 #### Creative
 | Cookbook | Colab |
 |:---------|:-----:|
-| [2025 in Frames](./editor/creative/2025_in_Frames.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/2025_in_Frames.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| [AI Storyteller for Kids](./editor/creative/AI_Storyteller_for_Kids.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/AI_Storyteller_for_Kids.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [2025 in Frames](./editor/creative/2025_in_frames.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/2025_in_frames.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [AI Storyteller for Kids](./editor/creative/ai_storyteller_for_kids.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/ai_storyteller_for_kids.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [Chess Montage](./editor/creative/chess_montage.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/chess_montage.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [Faceless Video](./editor/creative/faceless_video.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/faceless_video.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| [Lyric Video Generator](./editor/creative/Lyric_Video_Generator.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/Lyric_Video_Generator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| [Short Form Lyric Video Generator](./editor/creative/Short_Form_Lyric_Video_Generator.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/Short_Form_Lyric_Video_Generator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Tiktok Style Lyric Video Creator](./editor/creative/tiktok_style_lyric_video_creator.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/editor/creative/tiktok_style_lyric_video_creator.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 #### Feature
 | Cookbook | Colab |
