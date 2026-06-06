@@ -38,6 +38,7 @@ Most of the code examples are written in Python, though the concepts can be appl
 | [Scene Index QuickStart](./quickstart/Scene%20Index%20QuickStart.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/Scene%20Index%20QuickStart.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [Multimodal Quickstart](./quickstart/Multimodal_Quickstart.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/Multimodal_Quickstart.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [Scene Level Metadata Indexing](./quickstart/scene_level_metadata_indexing.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/scene_level_metadata_indexing.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Multicam Quickstart](./quickstart/Multicam_Quickstart.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/quickstart/Multicam_Quickstart.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 ### Real Time Streaming
 | Cookbook | Colab |
