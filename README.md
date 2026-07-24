@@ -83,6 +83,11 @@ Most of the code examples are written in Python, though the concepts can be appl
 | [Subtitle](./guides/Subtitle.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/Subtitle.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [VideoDB Search and Evaluation](./guides/VideoDB_Search_and_Evaluation.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/VideoDB_Search_and_Evaluation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
+#### Indexing V2
+| Cookbook | Colab |
+|:---------|:-----:|
+| [RTStream V2 Cookbook](./guides/indexing-v2/rtstream/quickstart.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/indexing-v2/rtstream/quickstart.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
 #### Multimodal
 | Cookbook | Colab |
 |:---------|:-----:|
