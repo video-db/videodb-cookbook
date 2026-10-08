@@ -27,10 +27,11 @@ For one runnable path through all three stages, use the [complete Indexing V2 qu
 
 | Goal | Analyzer | Guide | Compute |
 |---|---|---|---|
-| Search what was said | `spoken_words` | [Speech transcription](speech-transcription/speech-transcription.ipynb) | Managed |
+| Search what was said | `spoken_words` | [Speech transcription](speech-transcription/speech-transcription.ipynb) · [Indic speech with word timestamps](speech-transcription/indic-conformer.ipynb) | Managed or sandbox |
 | Locate and count known object classes | `object_detection` | [Object detection](object-detection/object-detection.ipynb) | Sandbox |
 | Read visible text | `ocr` | [OCR](ocr/ocr.ipynb) | Managed |
 | Find visible brands | `brand_detection` | [Brand detection](brand-detection/brand-detection.ipynb) | Managed |
+| Build an action and goal timeline | `activity` | [Activity: Gemini or Open Compute](activity.ipynb) | Managed or sandbox |
 | Describe actions | `activity_recognition` | [Activity recognition](activity-recognition/activity-recognition.ipynb) | Managed |
 | Describe settings | `location_detection` | [Location detection](location-detection/location-detection.ipynb) | Managed |
 | Extract custom visual fields | `vlm` | [Managed Models](vlm/managed-models.ipynb) · [Sandbox Models](vlm/sandbox-models.ipynb) | Managed or sandbox |
