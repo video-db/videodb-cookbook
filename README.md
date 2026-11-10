@@ -79,6 +79,7 @@ Most of the code examples are written in Python, though the concepts can be appl
 | Cookbook | Colab |
 |:---------|:-----:|
 | [Curation Quickstart](./guides/curation/quickstart.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/curation/quickstart.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Curation Lab: Break a Dataset and See What Curation Catches](./guides/curation/curation_lab.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/curation/curation_lab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [Cleanup](./guides/Cleanup.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/Cleanup.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [GenAI](./guides/genai.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/genai.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [Subtitle](./guides/Subtitle.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/guides/Subtitle.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
