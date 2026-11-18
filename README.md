@@ -29,6 +29,19 @@ This repo has example code and quick tutorials for solving common tasks with the
 
 Most of the code examples are written in Python, though the concepts can be applied in any language.
 
+## Use VideoDB in your agent
+
+VideoDB lets an AI agent watch, search and clip video.
+
+- **Claude**: [Add VideoDB from the plugin directory](https://videodb.io/claude?utm_source=github.com/video-db/videodb-cookbook&utm_medium=readme)
+- **ChatGPT**: [Add VideoDB from the plugin directory](https://videodb.io/chatgpt?utm_source=github.com/video-db/videodb-cookbook&utm_medium=readme)
+- **Claude Code**: `claude mcp add --transport http videodb https://mcp.videodb.io/mcp`
+- **Cursor or any MCP client**: Add the remote MCP server and log in once: `https://mcp.videodb.io/mcp`
+
+Free to start: $20 of credits, no credit card. [Steps for every client](https://docs.videodb.io/pages/mcp/connect?utm_source=github.com/video-db/videodb-cookbook&utm_medium=readme).
+
+The notebooks below show how to write code against VideoDB yourself.
+
 ## Contents
 
 ### Quickstart
