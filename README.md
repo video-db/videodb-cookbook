@@ -49,6 +49,7 @@ Most of the code examples are written in Python, though the concepts can be appl
 | [Intrusion Detection](./real_time_streaming/Intrusion_Detection.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/real_time_streaming/Intrusion_Detection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [Road Monitoring](./real_time_streaming/Road_Monitoring.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/real_time_streaming/Road_Monitoring.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [Roadcam](./real_time_streaming/Roadcam.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/real_time_streaming/Roadcam.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [YouTube Live: Spanish Transcripts with Speakers](./real_time_streaming/YouTube_Live_Spanish_Speakers.ipynb) | <a href="https://colab.research.google.com/github/video-db/videodb-cookbook/blob/main/real_time_streaming/YouTube_Live_Spanish_Speakers.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 #### Multicam
 | Cookbook | Colab |
